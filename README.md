@@ -10,5 +10,5 @@
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end 
  <br/> :blush: &nbsp; Posso te ajudar com CSS e C++ 
  <br/> :computer: &nbsp; Atualmente estou estudando: JavaScript, Css, Html e C++ 
- <br/> 💬  &nbsp; Sobre mim: Curto novas tecnologias, LoL e algumas bandas como: Red Hot Chili Peppers e Pink Floyd
+ <br/> 💬  &nbsp; Sobre mim: Gosto de novas tecnologias, LoL e algumas bandas como: Red Hot Chili Peppers e Pink Floyd
  <br/> :email: &nbsp; Entre em contato comigo:   [![Gmail Badge](https://img.shields.io/badge/-gabriel.nicolim@unesp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.nicolim@unesp.br)](mailto:gabriel.nicolim@unesp.br)
