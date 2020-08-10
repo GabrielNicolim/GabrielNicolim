@@ -1,5 +1,5 @@
 
-<img width="auto" src="https://avatars2.githubusercontent.com/u/69210720?s=400&u=1cb3d5414fd8a623ccb90569af6627d714943413&v=4">
+<!-- <img width="auto" src="https://avatars2.githubusercontent.com/u/69210720?s=400&u=1cb3d5414fd8a623ccb90569af6627d714943413&v=4"> -->
 
 # Gabriel Nicolim 
 
