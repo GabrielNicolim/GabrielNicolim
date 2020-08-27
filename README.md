@@ -3,7 +3,7 @@
 
 # Gabriel Nicolim 
 
-## Olá pessoal 👋
+<h1 aling = center>Olá pessoal 👋<\h1>
  :rocket:  &nbsp; Sou apaixonado por resolver problemas utilizando a programação.
 
 
