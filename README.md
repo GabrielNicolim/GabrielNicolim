@@ -10,4 +10,4 @@
   :purple_heart: &nbsp; Buscando aprender tecnologias para trabalhar com Front-end 
  <br/> :blush: &nbsp; Posso te ajudar com C/C++
  <br/> :computer: &nbsp; Atualmente estou estudando: JavaScript, Css, Html e C/C++</br>
- <br/> <p margin = "0">:email: &nbsp; Entre em contato comigo:   [![Gmail Badge](https://img.shields.io/badge/-gabriel.nicolim@unesp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.nicolim@unesp.br)](mailto:gabriel.nicolim@unesp.br)</p>
+ <br/> <p display = "flex" margin = "0">:email: &nbsp; Entre em contato comigo:   [![Gmail Badge](https://img.shields.io/badge/-gabriel.nicolim@unesp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.nicolim@unesp.br)](mailto:gabriel.nicolim@unesp.br)</p>
