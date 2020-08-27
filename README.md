@@ -7,6 +7,5 @@
  <br/>:computer: &nbsp; Atualmente estou estudando: JavaScript, Css, Html e C/C++</br></br>
 
   📫 Como entrar em contato comigo **gabriel.nicolim@unesp.br**
-  blush: &nbsp; Posso te ajudar com [C/C++] (https://github.com/GabrielNicolim/Estudo_C)
-  👨‍💻 Todos os meus projetos estão disponíveis em [mayk.brito.net.br] (https://mayk.brito.net.br)
+  
  </h3>
