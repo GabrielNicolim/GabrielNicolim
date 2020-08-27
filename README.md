@@ -9,6 +9,3 @@
   📫 Como entrar em contato comigo **gabriel.nicolim@unesp.br**
   
  </h3>
-
-
-👨‍💻 Todos os meus projetos estão disponíveis em [mayk.brito.net.br] (https://mayk.brito.net.br))
