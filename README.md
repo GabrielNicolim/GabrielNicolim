@@ -4,5 +4,6 @@
  <h3>:rocket:  &nbsp; Sou apaixonado por resolver problemas utilizando a programação.
  <br/>:purple_heart: &nbsp; Buscando aprender tecnologias para trabalhar com Front-end 
  <br/> :blush: &nbsp; Posso te ajudar com C/C++
- <br/> :computer: &nbsp; Atualmente estou estudando: JavaScript, Css, Html e C/C++</br></h3>
+ <br/> :computer: &nbsp; Atualmente estou estudando: JavaScript, Css, Html e C/C++</br>
  <br/> :email: &nbsp; Entre em contato comigo **gabriel.nicolim@unesp.br**
+ </h3>
