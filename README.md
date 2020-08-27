@@ -3,9 +3,9 @@
 
 # Gabriel Nicolim 
 
-<h1 aling = center>Olá pessoal 👋</h1>
+<h1 align = "center">Olá pessoal 👋</h1>
  :rocket:  &nbsp; Sou apaixonado por resolver problemas utilizando a programação.
-
+    <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=GabrielNicolim" alt = "GabrielNicolim" /> </p>
 
   :purple_heart: &nbsp; Buscando aprender tecnologias para trabalhar com Front-end 
  <br/> :blush: &nbsp; Posso te ajudar com C/C++
