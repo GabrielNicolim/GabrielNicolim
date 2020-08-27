@@ -6,3 +6,5 @@
  <br/>:blush: &nbsp; Posso te ajudar com C/C++
  <br/>:computer: &nbsp; Atualmente estou estudando: JavaScript, Css, Html e C/C++</br>
  </h3>
+ 
+ - 📫 Como entrar em contato comigo **gabriel.nicolim@unesp.br**
