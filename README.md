@@ -9,3 +9,6 @@
   📫 Como entrar em contato comigo **gabriel.nicolim@unesp.br**
   
  </h3>
+
+
+ blush: &nbsp; Posso te ajudar com [C/C++] (https://github.com/GabrielNicolim/Estudo_C)
