@@ -6,4 +6,4 @@
   :purple_heart: &nbsp; Buscando aprender novas tecnologias 
  <br/> :blush: &nbsp; Posso te ajudar com C/C++
  <br/> :computer: &nbsp; Atualmente estou estudando: JavaScript, Css, Html e C/C++</br>
- <br/> :email: &nbsp; Entre em contato comigo **gabriel.nicolim@unesp.br**
+ <br/> :email: &nbsp; Entre em contato comigo:[![Gmail Badge](https://img.shields.io/badge/-gabriel.nicolim@unesp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.nicolim@unesp.br)(mailto:gabriel.nicolim@unesp.br)]
