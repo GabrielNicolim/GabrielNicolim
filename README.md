@@ -3,9 +3,8 @@
  <h1 align = "center">Olá pessoal</h1>
  <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=GabrielNicolim" alt = "GabrielNicolim" /> </p> --> 
  <h3>:rocket:  &nbsp; Sou apaixonado por resolver problemas utilizando a programação.
- <br/>:purple_heart: &nbsp; Buscando aprender tecnologias para trabalhar com Front-end 
- <br/>:blush: &nbsp; Posso te ajudar com C/C++
- <br/>:computer: &nbsp; Atualmente estou estudando: JavaScript, Css, Html e C/C++</br></br>
+ <br/>:purple_heart: &nbsp; Posso te ajudar com C/C++ e Python
+ <br/>:computer: &nbsp; Atualmente estou estudando: JavaScript, Python e C/C++</br></br>
  
   📫 Entre em contato comigo **gabriel.nicolim@unesp.br**
   
