@@ -9,3 +9,8 @@
   📫 Entre em contato comigo **gabriel.nicolim@unesp.br**
   
  </h3>
+
+ ## My statistics:
+
+[![Github Status](https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true&layout=compact&theme=dark)](https://github.com/GabrielNicolim)
+![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNicolim&layout=compact&theme=dark)
