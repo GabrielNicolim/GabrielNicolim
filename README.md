@@ -12,5 +12,4 @@
 
 ## Minhas estatísticas:
 
-[! [Status] (https://github-readme-stats.vercel.app/api?username=cliid&show_icons=true&layout=compact&theme=dark)] (https://github.com/GabrielNicolim)
 ! [Principais idiomas] (https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNicolim&layout=compact&theme=dark)
