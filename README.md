@@ -9,7 +9,3 @@
   📫 Entre em contato comigo **gabriel.nicolim@unesp.br**
   
  </h3>
-
-## Minhas estatísticas:
-
-! [Principais idiomas] (https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNicolim&layout=compact&theme=dark)
