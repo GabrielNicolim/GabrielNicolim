@@ -12,5 +12,6 @@
 
  ## Minhas Estatísticas:
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=GabrielNicolim&show_icons=true&layout=compact&theme=dark)](https://github.com/GabrielNicolim)
+<!-- [![Github Status](https://github-readme-stats.vercel.app/api?username=GabrielNicolim&show_icons=true&layout=compact&theme=dark)](https://github.com/GabrielNicolim) -->
+![status](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNicolim&layout=compact&theme=dark)
