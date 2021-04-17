@@ -8,7 +8,6 @@ I am 16 years old and I am a computer student at Colégio Técnico Industrial ' 
 
 - Front-End: com HTML, CSS, JavaScript
 - Back: Php, Python
-- Wordpress
 
 **Languages and Tools:** 
 
