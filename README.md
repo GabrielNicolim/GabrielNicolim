@@ -7,7 +7,7 @@ I am 16 years old and I am a computer student at Colégio Técnico Industrial ' 
 ## Technologies
 
 - Front-End: com HTML, CSS, JavaScript
-- Back: Php, Python
+- Back: Php, Python, Java 
 
 **Languages and Tools:** 
 
@@ -15,7 +15,7 @@ I am 16 years old and I am a computer student at Colégio Técnico Industrial ' 
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="25" height="25"/>
-  <!-- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="25" height="25"/> -->
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="25" height="25"/> 
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="25" height="25"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="25" height="25"/>
