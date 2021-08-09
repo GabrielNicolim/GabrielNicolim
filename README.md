@@ -2,8 +2,7 @@
  
 ## About Me
 
-I am 16 years old and I am a computer science student at the Industrial Technical School 'Isaac Portal Roldán' - UNESP (Bauru, SP). I am currently
-acting as a software development intern at UNESP - Universidade Estadual Paulista, with the web stack.
+I am 16 years old computer science student at the Industrial Technical School 'Isaac Portal Roldán' - UNESP (Bauru, SP). Currently acting as a software development intern at UNESP - Universidade Estadual Paulista, with the web stack.
 
 ## Technologies
 
