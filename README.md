@@ -2,7 +2,8 @@
  
 ## About Me
 
-I am 16 years old and I am a computer student at Colégio Técnico Industrial ' Isaac Portal Roldán '- UNESP (Bauru, SP). I am currently studying Web and have taken my first steps in this universe.
+I am 16 years old and I am a computer science student at the Industrial Technical College 'Isaac Portal Roldán' - UNESP (Bauru, SP). I'm currently
+acting as a software development intern at UNESP - Universidade Estadual Paulista.
 
 ## Technologies
 
