@@ -7,7 +7,7 @@ I am 17 years old computer science student at the Industrial Technical School 'I
 ## Technologies
 
 - Front-End: com HTML, CSS, JavaScript
-- Back: Php, Python, Java 
+- Back: PHP, Python, Java 
 
 **Languages and Tools:** 
 
