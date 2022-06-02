@@ -1,4 +1,4 @@
-# <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "30px" style = "max -width: 100%; "> Hello!
+# <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style = "max-width: 100%; width: 30px;"> Hello!
  
 ## About Me
 
