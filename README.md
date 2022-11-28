@@ -2,7 +2,7 @@
  
 ## About Me
 
-I am 17 years old computer science student at the Industrial Technical School 'Isaac Portal Roldán' - UNESP (Bauru, SP). Currently I work as a web development intern at Firework Web & Mobile.
+Computer technician graduated from the Industrial Technical College "Prof. Isaac Portal Roldán". He has worked as a web development intern at UNESP-Universidade Estadual Paulista. He currently serves as a full stack developer at Firework Web & Mobile.
 
 ## Technologies
 
