@@ -6,8 +6,8 @@ Computer technician graduated from the Industrial Technical College "Prof. Isaac
 
 ## Technologies
 
-- Front-End: com HTML, CSS, JavaScript
-- Back: PHP, Python, Java 
+- Front-End: React, Vue Js, Bootstrap
+- Back: Laravel, PHP
 
 **Languages and Tools:** 
 
