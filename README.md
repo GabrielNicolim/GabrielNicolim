@@ -2,7 +2,7 @@
  
 ## About Me
 
-Computer technician graduated from the Industrial Technical College "Prof. Isaac Portal Roldán". He has worked as a web development intern at UNESP-Universidade Estadual Paulista. Currently, he is an information systems student at UNESP and plays the role of Full Stack developer at Firework Web & Mobile.
+Computer technician graduated from the Industrial Technical College "Prof. Isaac Portal Roldán". He has worked as a web development intern at UNESP-Universidade Estadual Paulista. Currently, he is an information systems student at UNESP and plays the role of Full Stack developer at AlgoritmUx.
 
 ## Technologies
 
